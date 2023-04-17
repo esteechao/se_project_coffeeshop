@@ -139,8 +139,7 @@
 .recipes {
   background-color: #0a2750;
   background-image: url(../images/background_recipes.svg);
-  background-repeat: no-repeat;
-  background-position: center center;
+  background-position: center;
   background-size: cover;
 }
 
@@ -151,7 +150,7 @@
   margin: 0;
   padding-left: 80px;
   padding-top: 100px;
-  font-family: "Inter", "Arial", sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -164,7 +163,7 @@
   padding-top: 24px;
   padding-left: 80px;
   margin: 0;
-  font-family: "Noto Serif", "Times New Roman", serif;
+  font-family: "Noto Serif", Times New Roman, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
