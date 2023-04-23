@@ -1,0 +1,90 @@
+.header {
+  background-color: #ffffff;
+  background-image: url(./images/se_project_2_files/background_header.svg);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.header__title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  max-width: 729px;
+  padding-top: 202px;
+  padding-left: 80px;
+  padding-bottom: 28px;
+  margin: 0;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 72px;
+  z-index: 2;
+}
+
+.header__span-accent {
+  font-family: "Noto Serif", "Times New Roman", serif;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 60px;
+  line-height: 72px;
+  color: #2f80ed;
+}
+
+.header__description {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 0px;
+  padding-left: 80px;
+  margin: 0;
+  max-width: 683px;
+  font-family: "Noto Serif", "Times New Roman", serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  z-index: 1;
+}
+
+.header__image {
+  position: absolute;
+  max-width: 646px;
+  max-height: 568px;
+  top: 124px;
+  right: 5px;
+  z-index: 0;
+}
+
+.header__footer {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Inter", "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #838383;
+  margin-top: auto;
+  box-sizing: border-box;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 40px;
+}
+
+.header__paragraph {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: row;
+  font-family: "Inter", "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #838383;
+  margin: 0;
+  z-index: 3;
+}
