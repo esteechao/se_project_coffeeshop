@@ -6,9 +6,9 @@
 .footer__content {
   display: flex;
   justify-content: space-between;
-  align-items: flex-ends;
+  align-items: flex-end;
   padding: 60px 100px 108px 80px;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .footer__logo {
@@ -54,6 +54,7 @@
   width: 16px;
   height: 16px;
   margin-right: 10px;
+  flex-direction: column;
 }
 
 .footer__social-link {
