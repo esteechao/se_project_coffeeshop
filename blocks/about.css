@@ -34,10 +34,6 @@
   line-height: 52px;
 }
 
-.about__circle_type_blurred {
-  animation: pulsate 1.3s ease-in-out infinite;
-}
-
 .about__circle {
   background-color: #2f80ed;
   width: 426px;
@@ -48,6 +44,10 @@
   left: -129px;
   overflow: hidden;
   z-index: 0;
+}
+
+.about__circle_type_blurred {
+  animation: pulsate 1.3s ease-in-out infinite;
 }
 
 .about__content {

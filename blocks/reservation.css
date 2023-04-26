@@ -2,7 +2,7 @@
   background-color: #D9E7FF;
   background-image: url(../images/background_reservation.svg);
   background-size: cover;
-  position: center center;
+  align-items: center;
   background-repeat: no-repeat;
 }
 
