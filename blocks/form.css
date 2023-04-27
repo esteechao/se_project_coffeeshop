@@ -47,8 +47,14 @@
   background-color: #2f80ed;
   color: #ffff;
   border: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
+.form__button:hover {
+  background-color: #1e63b6;
+  color: #ffffff;
+}
 
 .form__checkbox {
   border-radius: 2px;

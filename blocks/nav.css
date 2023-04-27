@@ -6,12 +6,18 @@
 .nav__link {
   color: #000000;
   text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.nav__link:hover {
+  color: #ff0000;
 }
 
 .nav__links {
   display: flex;
   margin-top: 30px;
   margin-right: 80px;
+  margin-bottom: 0;
   column-gap: 20px;
   align-items: center;
   padding: 0px;
