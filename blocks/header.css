@@ -7,6 +7,8 @@
   display: flex;
   flex-direction: column;
   position: relative;
+  min-height: 780px;
+  max-height: 780px;
 }
 
 .header__title {
