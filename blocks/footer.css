@@ -73,8 +73,8 @@
 .footer__copyright {
   padding-left: 80px;
   padding-bottom: 60px;
-  padding-top: 108px;
-  margin: 0;
+  padding-top: 0px;
+  margin-top: 180px;
   font-family: "Inter";
   font-style: normal;
   font-weight: normal;

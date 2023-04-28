@@ -19,7 +19,16 @@
   margin: 0;
 }
 
-
 .reservation__form {
   margin: 0 auto;
+}
+
+.reservation__form .form-group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.reservation__form .form-group label {
+  margin-right: 10px;
 }
