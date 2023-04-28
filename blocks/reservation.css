@@ -20,15 +20,12 @@
 }
 
 .reservation__form {
-  margin: 0 auto;
-}
-
-.reservation__form .form-group {
   display: flex;
+  justify-content: center;
   align-items: center;
-  margin-bottom: 10px;
-}
-
-.reservation__form .form-group label {
-  margin-right: 10px;
+  flex-direction: column;
+  margin: auto;
+  padding-top: 0px;
+  padding-bottom: 120px;
+  width: 385px;
 }
