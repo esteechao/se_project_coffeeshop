@@ -1,6 +1,6 @@
-# Practicum Coffee Shop
+# Coffee Shop
 
-This is my second fun project, it was created using HTML and CSS, based on the design brief.
+ This project was created using HTML5 and CSS. 
 
 ## Project features
 
