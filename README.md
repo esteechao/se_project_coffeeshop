@@ -1,6 +1,6 @@
 # Coffee Shop
 
- This project was created using HTML5 and CSS. 
+ This project was created using HTML5 and CSS3. 
 
 ## Project features
 
